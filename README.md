@@ -6,7 +6,7 @@
 🎮 Atualmente desenvolvendo projetos de jogos e buscando aperfeiçoar minhas habilidades em software e sistemas.  
 🔍 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
-## 🖼️ Meu GIF
+## 🖼️ 
 
 ![Meu GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ4bDduemJiam9obnpyazYyYWNtYThwa3Nwc2wxeDhzbG1paDV4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.webp)
 
@@ -29,7 +29,7 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anapiress&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical)
 
 ---
 
