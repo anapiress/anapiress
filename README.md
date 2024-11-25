@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Ana Carolina
+# 💜 Olá, eu sou a Ana Carolina
 
 🌱 **Jovem Aprendiz em TI | Estudante de Sistemas de Informação**  
 🔧 Apaixonada por tecnologia, programação e inovação.  
