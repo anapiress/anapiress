@@ -1,14 +1,14 @@
 # 💜 Olá, eu sou a Ana Carolina
 
-🌱 **Jovem Aprendiz em TI | Estudante de Sistemas de Informação**  
-🔧 Apaixonada por tecnologia, programação e inovação.  
-💻 Em constante aprendizado, explorando **Python**, **JavaScript**, **HTML**, **CSS** e **AWS**.  
-🎮 Atualmente desenvolvendo projetos de jogos e buscando aperfeiçoar minhas habilidades em software e sistemas.  
-🔍 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
+<p align="left">
+  🌱 Jovem Aprendiz em TI | Estudante de Sistemas de Informação<br>
+  🔧 Apaixonada por tecnologia, programação e inovação.<br>
+  💻 Em constante aprendizado, explorando Python, JavaScript, HTML, CSS e AWS.<br>
+  🎮 Atualmente desenvolvendo projetos de jogos e buscando aperfeiçoar minhas habilidades em software e sistemas.<br>
+  🔍 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
+</p>
 
-## 🖼️ 
-
-![Meu GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ4bDduemJiam9obnpyazYyYWNtYThwa3Nwc2wxeDhzbG1paDV4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.webp)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ4bDduemJiam9obnpyazYyYWNtYThwa3Nwc2wxeDhzbG1paDV4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.webp" alt="Meu GIF" min-width="400px" max-width="400px" width="400px" align="right">
 
 ---
 
