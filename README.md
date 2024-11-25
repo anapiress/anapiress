@@ -1,2 +1,2 @@
-<img src = "pinguim.gif" width = 325px />
+<img src = "banner.gif" width = 325px />
 
