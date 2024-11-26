@@ -29,11 +29,11 @@
 
 ## ⭐ GitHub Stats
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinapiresduarte)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anapiress&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical)
 
 ---
 
 ## 💬 Vamos nos conectar!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anacarolinapiresduarte)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinapiresduarte/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anapiress)
