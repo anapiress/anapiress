@@ -1,7 +1,7 @@
 # 💜 Olá, eu sou a Ana Carolina
 
 <p align="left">
-  🌱 Jovem Aprendiz em TI | Estudante de Sistemas de Informação<br>
+  🌱 Estagiária de Infraestrutura | Estudante de Sistemas de Informação<br>
   🔧 Apaixonada por tecnologia, programação e inovação.<br>
   💻 Em constante aprendizado, explorando Python, JavaScript, HTML, CSS e AWS.<br>
   🎮 Atualmente desenvolvendo projetos de jogos e buscando aperfeiçoar minhas habilidades em software e sistemas.<br>
