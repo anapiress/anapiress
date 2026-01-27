@@ -25,11 +25,6 @@
 [![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)  
 [![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anapiress&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical)
 
 ---
 
