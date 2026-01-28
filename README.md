@@ -3,11 +3,11 @@
 <table width="100%">
   <tr>
     <td valign="middle">
-
+      
 🌱 **Estagiária de Infraestrutura** | **Estudante de Sistemas de Informação**  
-
+      
 🔧 Apaixonada por tecnologia, programação e inovação  
-💻 Em constante aprendizado, explorando desenvolvimento web, backend e cloud  
+💻 Em constante aprendizado, explorando desenvolvimento web, frontend, backend e cloud  
 🎮 Desenvolvendo projetos e aprimorando habilidades em software e sistemas  
 🔍 Sempre em busca de novos desafios e crescimento na área de TI  
     </td>
