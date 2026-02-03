@@ -4,7 +4,7 @@
   <tr>
     <td valign="middle">
       
-🌱 **Estagiária de Infraestrutura** | **Estudante de Sistemas de Informação**  
+🌱 **Estudante de Sistemas de Informação**  
       
 🔧 Apaixonada por tecnologia, programação e inovação  
 💻 Em constante aprendizado, explorando desenvolvimento web, frontend, backend e cloud  
